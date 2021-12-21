@@ -1,3 +1,6 @@
+#why did i even fork this
+-xandrei
+
 # Open and cheap DIY IP-KVM based on Raspberry Pi
 [![Discord](https://img.shields.io/discord/580094191938437144?logo=discord)](https://discord.gg/bpmXfz5) [![Reddit](https://img.shields.io/badge/reddit-join-orange?logo=reddit)](https://www.reddit.com/r/pikvm)
 
